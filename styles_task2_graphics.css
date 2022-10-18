@@ -1,0 +1,35 @@
+
+body{
+	background-color: #f5f5f5;
+}
+
+.menu{
+	width: 300px;
+}
+
+span{
+	color: white;
+	padding: 0px 60px 0px 0;
+	font-size: 23px;
+	font-family: Calibri;
+}
+
+
+img{
+    width: 90px;
+    padding: 10px 10px 0px 10px;
+}
+
+.img_menu{
+	display:flex;
+	align-items: center;
+}
+
+li{
+	list-style: none;
+	background: rgb(110,110,110);
+}
+
+li:hover{
+	background: rgb(70,70,70);
+}

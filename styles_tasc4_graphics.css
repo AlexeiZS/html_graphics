@@ -1,0 +1,89 @@
+
+footer{
+	position: fixed;
+	bootom: 0;
+	left: 10px;
+	right: 10px;
+	width: 96.5%;
+	height: 200px;
+	background-color:#2B5C73 ;
+    color: white;
+    font-family: verdana;
+}
+.main_block{
+	display: flex ;
+}
+.footer_text_left{
+	font-size: 10px;
+	padding-left: 40px;
+	float: left;
+	margin: 30px 10px;
+}
+.footer_text_right{
+font-size: 10px;
+margin: 30px;
+padding-left: 20%;
+}
+
+
+.ul{
+	font-size: 50px;
+	padding-left :40px;
+	float: left;
+	margin: 30px 30px;
+}
+
+.content_right{
+	display:flex;
+	width: 250px;
+	height: 50px;
+	margin-top: 25px;
+	float: left;
+}
+
+.icon_style1{
+    
+	background-image: url(image/fb_gray.png);
+	width:64px;
+	height: 64px;
+
+}
+.icon_style1:hover {
+	background-image: url("image/fb.png");
+}
+.icon_style2{
+	margin-left: 10px;
+	width: 64px;
+	height: 64px;
+	background-image: url(image/insta_gray.png);
+}
+.icon_style2:hover{
+	background-image: url(image/insta.png);
+}
+
+.icon_style3{
+	margin-left: 10px;
+	width: 64px;
+	height: 64px;
+	background-image: url(image/youtube_gray.png);
+}
+.icon_style3:hover{
+	background-image: url(image/youtube.png);
+}
+
+
+p{
+	width: 96%;
+	height: 1px;
+    background-color: white;
+    margin: 0 10px 0 10px;
+}
+
+
+
+
+h3{
+	text-align: center;
+	font-size: 8px;
+	margin-bottom: 10px;
+}
